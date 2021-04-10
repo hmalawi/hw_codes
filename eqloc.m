@@ -6,8 +6,8 @@ function [xx,yy,zz,tt,RMS]=eqloc(indir, x0, y0, z0, t0, v, n, varargin)
 %
 % The file should be in a certain format
 %
-% Written by Huda Al Alawi - April 3rd, 2021 at 11:48 a.m.
-% Last modified - April 7th, 2021 at 9:04 p.m.
+% Written by Huda Al Alawi - April 3rd, 2021
+% Last modified by Huda Al Alawi - April 7th, 2021
 %
 % INPUT:
 %
